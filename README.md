@@ -13,3 +13,4 @@ go run main.go --port 1235 --path="/Users/fanyangyang"
 ## TODO 
 
 - [ ] 优雅退出
+- [ ] 输出帮助文档
